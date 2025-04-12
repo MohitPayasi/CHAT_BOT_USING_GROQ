@@ -4,3 +4,8 @@ numpy
 langchain
 python-dotenv
 langchain-community
+python-dotenv
+langchain_core
+langchain_groq
+os
+streamlit
