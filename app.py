@@ -4,8 +4,6 @@ import os
 import streamlit as st
 groq_api_key=os.getenv('GROQ_API_KEY')
 
-
-import langchain_core
 from langchain_groq import ChatGroq
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
