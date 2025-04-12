@@ -1,11 +1,9 @@
+langchain
+langchain-core
+langchain-community
 langchain-openai
+langchain-groq
+streamlit
+python-dotenv
 pandas
 numpy
-langchain
-python-dotenv
-langchain-community
-dotenv
-langchain_core
-langchain_groq
-os
-streamlit
