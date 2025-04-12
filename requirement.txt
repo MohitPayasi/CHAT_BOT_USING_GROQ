@@ -1,12 +1,13 @@
-langchain
-langchain-core
 langchain-community
 langchain-openai
-langchain-groq
-streamlit
 python-dotenv
 pandas
 numpy
 langsmith
+streamlit
+langchain
+langchain-core
+langchain-groq
+python-dotenv  # Optional (not needed on Streamlit Cloud)
 
 
