@@ -7,5 +7,6 @@ streamlit
 python-dotenv
 pandas
 numpy
+langsmith
 
 
